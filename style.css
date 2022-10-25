@@ -13,6 +13,9 @@ h1 {
     padding-top: 20px ;
     margin-left: 15px;
 }
+.titulo-principal {
+    padding-left: 20px;
+}
 p {
     text-align: center;
 }
@@ -41,4 +44,7 @@ display: inline-block;
 vertical-aling: top;
 width: 20%;
 margin-rigth: 15%;
+}
+.titulo-centralizado {
+    text-align: center;
 }
